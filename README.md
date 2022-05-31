@@ -1,3 +1,0 @@
-# newgit
-# printss
-# hhhh
